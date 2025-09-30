@@ -1,0 +1,14 @@
+   a{text-decoration: none;}
+        nav ul{
+            list-style: none;
+        }
+        nav ul li{
+            display: inline;
+            width: 100px; height: 40px;
+            border:  1px solid black;
+            text-align: center;
+            line-height: 40px;
+            position: absolute;
+            right: 100px;
+            bottom: 100px;
+        }
